@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navneetprabhakar
 - 👀 I’m interested in prototyping solutions
 - 🌱 I’m currently learning something interesting
-- 💞️ I’m looking to collaborate on financial services solutioning (LOS, CREDIT RISK ASSESSMENT, LMS, COLLECTION MODULES)
+- 💞️ I’m looking to collaborate on building any interesting project.
 - 📫 How to reach me - navneet.prabhakar007@gmail.com
 
 <!---
