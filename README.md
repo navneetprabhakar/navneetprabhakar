@@ -1,93 +1,78 @@
 # Hey there, I'm Navneet Prabhakar 👋
 
-### Senior Engineering Manager @ Target | AI Integration Specialist | Java Enterprise Architect
+### Senior Engineering Manager @ Target | AI Agent Architect | Java Enterprise Developer
 
-I lead engineering teams at Target while staying hands-on with cutting-edge AI technologies and enterprise Java solutions. My passion lies in bridging the gap between AI innovation and production-ready enterprise systems.
+I lead engineering teams at Target while staying deeply hands-on — building AI agent systems, MCP integrations, and enterprise Java solutions. My work sits at the intersection of cutting-edge AI and production-grade engineering.
 
 ## 🎯 Current Focus
 
-Building the future of AI-powered enterprise systems with:
-- **AI Agent Architectures** - Implementing Model Context Protocol (MCP) servers and clients with Spring AI
-- **LLM Integration** - Working with OpenAI, Claude (Anthropic), and Google Gemini APIs
-- **RAG Systems** - Building retrieval-augmented generation pipelines with vector search (pgvector)
-- **Spring AI Ecosystem** - Pioneering enterprise AI integration patterns with Spring Boot
+- **AI Agent Architectures** — Multi-agent swarm systems with specialized roles for research, analysis, and synthesis
+- **Model Context Protocol (MCP)** — Building MCP servers and clients with Spring AI for tool-augmented AI workflows
+- **LLM-Powered Applications** — RAG pipelines, chat memory systems, and text-to-query engines (InfluxQL, SQL)
+- **Real-time Observability** — Visualization dashboards for monitoring agent-MCP tool interactions
+- **Bot Development** — Telegram and WhatsApp bots with comprehensive command systems using Spring Boot
 
 ## 🚀 Featured Projects
 
-### AI & LLM Integration
-- **[trade-mcp-server](https://github.com/navneetprabhakar/trade-mcp-server)** - Stock trading MCP server with Spring AI
-- **[mcp-client](https://github.com/navneetprabhakar/mcp-client)** & **[mcp-server](https://github.com/navneetprabhakar/mcp-server)** - Model Context Protocol implementations
-- **[openai](https://github.com/navneetprabhakar/openai)** - OpenAI integration with RAG, vector search, and chat memory
-- **[anthropic](https://github.com/navneetprabhakar/anthropic)** - Claude AI integration with Spring AI
-- **[gemini](https://github.com/navneetprabhakar/gemini)** - Google Gemini API integration
+### AI Agents & MCP
+- **[trade-mcp-server](https://github.com/navneetprabhakar/trade-mcp-server)** — Stock trading MCP server with Spring AI for tool-augmented financial workflows
+- **[mcp-client](https://github.com/navneetprabhakar/mcp-client)** — MCP Client implementation with Spring AI
+- **[mcp-server](https://github.com/navneetprabhakar/mcp-server)** — MCP Server implementation for exposing tools to LLM agents
 
-### Enterprise Java Solutions
-- **[drools](https://github.com/navneetprabhakar/drools)** - Rule engine implementation with Spring Boot ⭐ 5 stars
-- **[executor](https://github.com/navneetprabhakar/executor)** - Executor Framework patterns and best practices ⭐ 3 stars
-- **[kafka](https://github.com/navneetprabhakar/kafka)** - Kafka producer/consumer with Spring Boot
-- **[elasticsearch](https://github.com/navneetprabhakar/elasticsearch)** - Search integration with Spring Boot
+### LLM Integrations
+- **[openai](https://github.com/navneetprabhakar/openai)** — OpenAI integration with Spring AI featuring RAG, vector search (pgvector), and chat memory
+- **[anthropic](https://github.com/navneetprabhakar/anthropic)** — Claude AI integration with Spring AI
+- **[gemini](https://github.com/navneetprabhakar/gemini)** — Google Gemini API integration with Spring AI
+
+### Enterprise Java
+- **[drools](https://github.com/navneetprabhakar/drools)** — Drools Rule Engine implementation with Spring Boot ⭐ 5
+- **[executor](https://github.com/navneetprabhakar/executor)** — Executor Framework patterns and best practices in Java ⭐ 3
+- **[kafka](https://github.com/navneetprabhakar/kafka)** — Kafka producer/consumer implementation with Spring Boot
+- **[elasticsearch](https://github.com/navneetprabhakar/elasticsearch)** — Elasticsearch search integration with Spring Boot
+- **[dms](https://github.com/navneetprabhakar/dms)** — Document Management System using MongoDB GridFS
+- **[cowin](https://github.com/navneetprabhakar/cowin)** — CoWin Public API integration for Covid vaccination appointments
 
 ### Algorithms & Simulations
-- **[montecarlo](https://github.com/navneetprabhakar/montecarlo)** - Monte Carlo simulations for casino games
-- **[tictactoe](https://github.com/navneetprabhakar/tictactoe)** - AI player using minimax algorithm
-- **[network](https://github.com/navneetprabhakar/network)** - Dijkstra's algorithm for train scheduling
-- **[geneticAlgo](https://github.com/navneetprabhakar/geneticAlgo)** - Genetic algorithm implementation
+- **[montecarlo](https://github.com/navneetprabhakar/montecarlo)** — Monte Carlo simulations for casino game probability analysis ⭐ 1
+- **[geneticAlgo](https://github.com/navneetprabhakar/geneticAlgo)** — Genetic algorithm implementation
+- **[tictactoe](https://github.com/navneetprabhakar/tictactoe)** — Tic-tac-toe with AI player using minimax algorithm
+- **[network](https://github.com/navneetprabhakar/network)** — Dijkstra's algorithm for train scheduling optimization
 
 ## 💻 Tech Stack
 
-**AI & LLM**
-- Spring AI, OpenAI API, Claude (Anthropic), Google Gemini
-- Model Context Protocol (MCP), RAG, Vector Search (pgvector)
-- Chat Memory Systems, Agent Architectures
+**AI & LLM** — Spring AI, OpenAI API, Anthropic Claude, Google Gemini, Model Context Protocol (MCP), RAG, pgvector, Agent Swarm Architectures, Chat Memory Systems
 
-**Backend & Enterprise**
-- Java 8+, Spring Boot, Spring Framework
-- Kafka, Elasticsearch, MongoDB GridFS, WebSockets
-- Drools, Jeasy Rules (Rule Engines)
+**Backend** — Java 21, Spring Boot, Spring Framework, Kafka, Elasticsearch, MongoDB GridFS, WebSockets, PostgreSQL
 
-**Architecture & Patterns**
-- Microservices, Executor Framework
-- REST APIs, Event-Driven Architecture
-- Enterprise Integration Patterns
+**Rule Engines** — Drools, Jeasy Rules
 
-**Algorithms & CS Fundamentals**
-- Dynamic Programming, Genetic Algorithms
-- Graph Algorithms (Dijkstra), Game Theory (Minimax)
-- Monte Carlo Simulations
+**Bots & Messaging** — Telegram Bot API, WhatsApp integration, Spring Boot bot frameworks
+
+**Observability** — InfluxDB, InfluxQL, OpenTelemetry, Real-time visualization dashboards
+
+**Algorithms** — Monte Carlo Simulations, Genetic Algorithms, Graph Algorithms (Dijkstra), Game Theory (Minimax), Dynamic Programming
 
 ## 🏆 Achievements
-- 🦈 **Pull Shark** - Significant pull request contributions
-- ❄️ **Arctic Code Vault Contributor** - Code preserved for future generations
+- 🦈 **Pull Shark** — Significant pull request contributions
+- ❄️ **Arctic Code Vault Contributor** — Code preserved for future generations
 
-## 💼 Professional Experience
+## 🌱 What I'm Exploring
 
-**Senior Engineering Manager @ Target** | Bengaluru, India
-- Leading engineering teams building large-scale retail technology solutions
-- Driving AI adoption and innovation in enterprise systems
-- Architecting scalable Java-based microservices
-
-## 🌱 What I'm Learning
-
-Continuously exploring the intersection of AI and enterprise software - currently focused on:
-- Advanced AI agent patterns and swarm intelligence
-- Production-ready RAG implementations
-- Scaling LLM applications in enterprise environments
+- Advanced AI agent patterns and multi-agent orchestration
+- High-performance LLM inference with Java/C++ (JNI)
+- Production-ready RAG and text-to-query systems
+- Agentic SaaS platforms for retail media and advertising
 
 ## 🤝 Let's Collaborate
 
-I'm interested in projects involving:
-- AI/ML integration in enterprise Java applications
-- Spring AI and LLM orchestration
-- Rule engines and complex business logic systems
-- Distributed systems and real-time processing
-- Algorithmic problem-solving and simulations
+I'm interested in projects involving AI/ML integration in enterprise Java applications, Spring AI and LLM orchestration, MCP server/client implementations, rule engines and complex business logic, distributed systems and real-time processing, and algorithmic problem-solving.
 
 ## 📫 Get In Touch
 
-- 💼 **LinkedIn**: [linkedin.com/in/navneetprabhakar](https://www.linkedin.com/in/navneetprabhakar/)
-- 📧 **Email**: navneet.prabhakar007@gmail.com
-- 🐙 **GitHub**: You're already here! Check out my repositories
+- 💼 [LinkedIn](https://www.linkedin.com/in/navneetprabhakar/)
+- 📧 navneet.prabhakar007@gmail.com
+- 🐙 You're already here — explore the repos!
 
 ---
 
-💭 *Currently focused on building intelligent systems that scale. May be slow to respond, but I read everything!*
+💡 *"Prototyping today's ideas into tomorrow's solutions"*
