@@ -18,11 +18,20 @@ I lead engineering teams at Target while staying deeply hands-on — building AI
 - **[trade-mcp-server](https://github.com/navneetprabhakar/trade-mcp-server)** — Stock trading MCP server with Spring AI for tool-augmented financial workflows
 - **[mcp-client](https://github.com/navneetprabhakar/mcp-client)** — MCP Client implementation with Spring AI
 - **[mcp-server](https://github.com/navneetprabhakar/mcp-server)** — MCP Server implementation for exposing tools to LLM agents
+- **[zero-trade-app](https://github.com/navneetprabhakar/zero-trade-app)** — Agentic AI system which trades with Zerodha Kite connect. Its a multi-agent architecture system with multiple features
+- **[fno-conservative-algo](https://github.com/navneetprabhakar/fno-conservative-algo)** — Conservative F&O algorithmic trading system with AI agents - Spring Boot 3 + Spring AI
 
 ### LLM Integrations
 - **[openai](https://github.com/navneetprabhakar/openai)** — OpenAI integration with Spring AI featuring RAG, vector search (pgvector), and chat memory
 - **[anthropic](https://github.com/navneetprabhakar/anthropic)** — Claude AI integration with Spring AI
 - **[gemini](https://github.com/navneetprabhakar/gemini)** — Google Gemini API integration with Spring AI
+- **[javagpt](https://github.com/navneetprabhakar/javagpt)** — Lightweight GPT implementation with Java 21, Spring Boot 3.2, and Deep Java Library (DJL) for local text generation
+- **[query-builder](https://github.com/navneetprabhakar/query-builder)** — Text to Query generator
+
+### Bots & Messaging
+- **[telegram-bot-llm](https://github.com/navneetprabhakar/telegram-bot-llm)** — Telegram bot with LLM code gen capabilities
+- **[telegram-bot](https://github.com/navneetprabhakar/telegram-bot)** — Telegram bot with LLM and MCP capabilities
+- **[websocket](https://github.com/navneetprabhakar/websocket)** — Simple chat app with Web socket
 
 ### Enterprise Java
 - **[drools](https://github.com/navneetprabhakar/drools)** — Drools Rule Engine implementation with Spring Boot ⭐ 5
@@ -31,6 +40,11 @@ I lead engineering teams at Target while staying deeply hands-on — building AI
 - **[elasticsearch](https://github.com/navneetprabhakar/elasticsearch)** — Elasticsearch search integration with Spring Boot
 - **[dms](https://github.com/navneetprabhakar/dms)** — Document Management System using MongoDB GridFS
 - **[cowin](https://github.com/navneetprabhakar/cowin)** — CoWin Public API integration for Covid vaccination appointments
+- **[bank-statement-analyser](https://github.com/navneetprabhakar/bank-statement-analyser)** — Bank statement analyser with categorisation and control
+- **[credit-risk-analyser](https://github.com/navneetprabhakar/credit-risk-analyser)** — Credit risk analyser for various loan using Bank statement, Credit bureau report, GST / ITR
+- **[jeasy](https://github.com/navneetprabhakar/jeasy)** — Jeasy Rule Engine with Spring Boot and Swagger
+- **[stock-exchange-trade](https://github.com/navneetprabhakar/stock-exchange-trade)** — Groww API wrapper for stock & F&O trading - Spring Boot 3
+- **[fno-dashboard](https://github.com/navneetprabhakar/fno-dashboard)** — UI Dashboard for tracking investment and strategies
 
 ### Algorithms & Simulations
 - **[montecarlo](https://github.com/navneetprabhakar/montecarlo)** — Monte Carlo simulations for casino game probability analysis ⭐ 1
