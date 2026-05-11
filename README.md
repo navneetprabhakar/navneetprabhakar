@@ -5,9 +5,6 @@
 I lead engineering teams at Target while staying deeply hands-on — building production-grade AI agent systems, MCP integrations, and enterprise Java platforms. My work sits at the intersection of cutting-edge AI and shipping code that runs in production.
 
 <p>
-  <a href="https://github.com/navneetprabhakar?tab=followers">
-    <img src="https://img.shields.io/github/followers/navneetprabhakar?label=Followers&style=for-the-badge&color=4078c0&logo=github&logoColor=white" alt="GitHub Followers" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=navneetprabhakar&label=Profile+Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=for-the-badge" alt="Open to Collaboration" />
 </p>
